@@ -1,2 +1,2 @@
 # portfolio
-personal-portfolio
+https://muhammadzohaibawan.github.io/portfolio/
